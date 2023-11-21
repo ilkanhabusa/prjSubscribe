@@ -1,0 +1,102 @@
+body {
+    margin: 0px;
+}
+
+.secSubscribe {
+    background-color: #0b6f97;
+    width: 100%;
+    height: 105px;
+    padding: 55px 0;
+}
+
+.imgEnvelope {
+    margin: 10px;
+    float: left;
+}
+
+.secText {
+    width: 40%;
+    float: left;
+    vertical-align: middle;
+    margin-left: 150px;
+}
+
+.secText > h2 {
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 500;
+    font-family: "Quicksand", sans-serif;
+    color: white;
+}
+
+.secForm {
+    width: 507px;
+    float: left;
+    background-color: #E4E4E4;
+    border-radius: 360px;
+}
+
+.ieEmail {
+    width: 55%;
+    background-color: transparent;
+    height: 65px;
+    border: 0px;
+}
+
+
+::placeholder {
+    font-family: "Quicksand", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgb(78, 79, 80);
+    padding-left: 30px;
+    
+}
+
+.isSubscribe {
+    width: 220px;
+    height: 65px;
+    color: #b8084a;
+    line-height: 65px;
+    box-shadow: none;
+    background: #ffffff;
+    border-radius: 360px;
+    border: none;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    white-space: normal;
+    letter-spacing: 0.1em;
+
+}
+
+/*------------- nav style start------------------------- */
+
+header{
+    clear: both;
+    width: 100%;
+}
+nav{
+    width: 60%;
+}
+li{
+    display: inline-block;
+}
+
+/* ----------------nav style end---------------------- */
+main{
+    overflow: hidden;
+}
+
+.img3 {
+    background-color: #b8084a;
+    float: left;
+    clear: both;
+}
+
+.container {
+    display: flex;
+    background: gray;
+  }
+
+

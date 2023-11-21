@@ -1,0 +1,46 @@
+.footer2 {
+    background-color: #1f222b;
+}
+
+.footer2-box1, .footer2-box2, .footer2-box3 {
+    display: inline-block;
+    color: #ffff;
+    font-family: sans-serif;
+    border: 1px solid white;
+    height: 350px;
+    padding-top: 100px;
+    padding-left: 80px; 
+    vertical-align: top; 
+}
+
+.footer2-box3 {
+    width: 30%;
+}
+
+.footer2-box1 {
+    width: 25%;
+
+}
+.footer2-box2 {
+    width: 25%;
+
+}
+.footer2-box3 {
+    width: 30%;
+
+}
+
+
+.myDonate {
+    width: 150px;
+    height: 150px;
+    background-color: #b8084a;
+    border-radius: 400px;
+}
+
+.myButton {
+    width: 61px;
+    background-color: #b8084a;
+    height: 61px;
+    border-radius: 0;
+}
